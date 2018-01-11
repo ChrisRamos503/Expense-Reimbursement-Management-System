@@ -1,0 +1,62 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	/*background-color: #ffff00;*/
+	background-image: url("img/monk1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%, 100%;
+}
+
+.shao_gray{
+
+	/* background-color: yellow;*/
+	color: gray;
+}
+
+.shao_gray *{
+
+	/* background-color: yellow;*/
+	color: gray;
+}
+
+
+.shao_yellow{
+	
+	color: yellow;
+}
+
+h1{
+	
+	color: yellow;
+}
+
+table {
+	
+	background-color: yellow;
+}
+
+td,th {
+	
+	 padding: 2px 5px;
+	 margin: 2px 5px;
+	 border: 2px solid black;
+	 background-color: yellow;
+}
+
+.title_font{
+
+
+
+}
+
+.div{
+	
+	
+	
+}
+
+.table{
+	
+	
+	
+}

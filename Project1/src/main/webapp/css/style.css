@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+html {
+	/*background-color: #ffff00;*/
+	background-image: url("img/monk1.jpg");
+	background-repeat: no-repeat;
+}
+
+body {
+	background-color: #ff00ff;
+	background-image: url("img/monk1.jpg");
+}
